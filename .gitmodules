@@ -17,3 +17,4 @@
 [submodule "acme-service"]
 	path = acme-service
 	url = https://github.com/TimCoates/acmec4.git
+	branch = main
