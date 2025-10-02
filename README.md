@@ -1,11 +1,11 @@
 # nhs-c4-umbrella
 The project pulls in all the LikeC4 repos from across the organisation and deploys to a single static web site.
 
-For more information on likeC4 [https://likec4.dev/].
+[More information on LikeC4](https://likec4.dev/).
 
-To add your diagrams, add the repo as a submodule: git submodule add https://github.com/nhsuk/nhsuk.c4-diagrams.git nhsuk
+To add your diagrams, add the repo as a submodule: `git submodule add https://github.com/nhsuk/nhsuk.c4-diagrams.git nhsuk`
 
-Add a `likec4.config.json` file to your project, containing
+Add a `likec4.config.json` file to your project, containing:
 
 ``` json
 {
@@ -17,5 +17,7 @@ Add a `likec4.config.json` file to your project, containing
   ]
 }
 ```
+
+This gets your project [published here](https://delightful-glacier-06cc49003.2.azurestaticapps.net/)
 
 `name` is used as the project name.
