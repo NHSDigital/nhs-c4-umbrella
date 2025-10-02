@@ -5,15 +5,17 @@ For more information on likeC4 [https://likec4.dev/].
 
 To add your diagrams, add the repo as a submodule: git submodule add https://github.com/nhsuk/nhsuk.c4-diagrams.git nhsuk
 
-Add a flikec4.config.json to your project, containing
+Add a `likec4.config.json` file to your project, containing
 
+``` json
 {
   "$schema": "https://likec4.dev/schemas/config.json",
-  "name": "The NHS Website",
+  "name": "Name of your project here",
   "title": "NHS.UK C4 Diagrams",
   "projects": [
    
   ]
 }
+```
 
-Name is used as the Project.
+`name` is used as the project name.
