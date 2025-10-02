@@ -14,3 +14,7 @@
 	path = nhsuk
 	url = https://github.com/nhsuk/nhsuk.c4-diagrams.git
 	branch = main
+[submodule "acme-service"]
+	path = acme-service
+	url = https://github.com/TimCoates/acmec4.git
+	branch = main
