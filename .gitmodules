@@ -10,7 +10,7 @@
 	path = nhsapp
 	url = https://github.com/TimCoates/app-c4-trial.git
 	branch = main
-[submodule "nhsuk.c4-diagrams"]
-	path = nhsuk.c4-diagrams
+[submodule "nhsuk"]
+	path = nhsuk
 	url = https://github.com/nhsuk/nhsuk.c4-diagrams.git
-	   branch = main
+	branch = main
