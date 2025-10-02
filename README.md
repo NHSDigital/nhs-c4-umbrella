@@ -18,6 +18,6 @@ Add a `likec4.config.json` file to your project, containing:
 }
 ```
 
-This gets your project [published here](https://delightful-glacier-06cc49003.2.azurestaticapps.net/)
+This gets your project [published here](https://architecture.digital.nhs.uk/likec4/#/projects/)
 
 `name` is used as the project name.
