@@ -1,5 +1,5 @@
 # nhs-c4-umbrella
-The project pulls in all the LikeC4 repos from across the organisation and deploys to a single static web site.
+The project pulls in multiple LikeC4 repos from across the organisation and deploys to a single static web site.
 
 [More information on LikeC4](https://likec4.dev/).
 
