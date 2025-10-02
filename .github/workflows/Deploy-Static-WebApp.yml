@@ -35,7 +35,10 @@ jobs:
           submodules: recursive 
       - name: Update submodules to latest
         run: git submodule update --init --remote --recursive
-        
+   
+      - name: Log submodule SHAs
+        run: git submodule status --recursive
+  
       - name: Build
         uses: likec4/actions@v1
         with:
