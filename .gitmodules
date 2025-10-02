@@ -1,0 +1,16 @@
+[submodule "mesh"]
+	path = mesh
+	url = https://github.com/TimCoates/mesh-c4-trial.git
+	branch = main
+[submodule "ftrs-directory-of-services"]
+	path = ftrs-directory-of-services
+	url = https://github.com/NHSDigital/ftrs-directory-of-services.git
+	branch = main
+[submodule "nhsapp"]
+	path = nhsapp
+	url = https://github.com/TimCoates/app-c4-trial.git
+	branch = main
+[submodule "nhsuk.c4-diagrams"]
+	path = nhsuk.c4-diagrams
+	url = https://github.com/nhsuk/nhsuk.c4-diagrams.git
+	   branch = main
