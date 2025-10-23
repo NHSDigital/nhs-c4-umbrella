@@ -16,7 +16,7 @@
 	branch = main
 [submodule "gpit"]
 	path = gpit
-	url = https://github.com/ribo8/gpit-c4-trial
+	url = https://github.com/ribo8/gpit-c4-trial.git
 	branch = main
 [submodule "acme-service"]
 	path = acme-service
